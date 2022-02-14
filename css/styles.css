@@ -444,6 +444,7 @@ a {
 .container-footer {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
   
 }
 
